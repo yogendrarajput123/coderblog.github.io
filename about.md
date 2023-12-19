@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
 
-Some information about you!
+Coderfarm is a software and web development company
 
-### More Information
+*italic*
+**For bold font**
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+[instagram!](https://www.instagram.com/)
 
 [email@domain.com](mailto:email@domain.com)
